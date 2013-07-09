@@ -1,0 +1,1 @@
+Simple GUI wrapper around texconv (http://directxtex.codeplex.com/), enabling multiple image file selection and conversion at once.
